@@ -10,7 +10,7 @@ Basic features:
  
  * Run in package commands
  
- ![](https://raw.githubusercontent.com/nhduy1985/sublime_mageruncommander/manual/images/magerun_command_pallet.png)
+ ![](https://raw.githubusercontent.com/nhduy1985/sublime_mageruncommander/manual/images/magerun_context_menu.png)
  
 *Inspired by:*
 
