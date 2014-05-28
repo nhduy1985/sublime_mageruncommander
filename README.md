@@ -5,7 +5,12 @@ A Sublime Text 3 plugin for easy working with Magerun Tool
 Basic features:
 
  * Run in context menu
+ 
+ ![](https://raw.githubusercontent.com/nhduy1985/sublime_mageruncommander/manual/images/magerun_command_pallet.png)
+ 
  * Run in package commands
+ 
+ ![](https://raw.githubusercontent.com/nhduy1985/sublime_mageruncommander/manual/images/magerun_command_pallet.png)
  
 *Inspired by:*
 
