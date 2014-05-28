@@ -1,0 +1,44 @@
+[
+   {"caption" : "-"},
+    {
+      "id": "magerun",
+      "caption": "Magerun",
+      "children": [
+          {
+          "caption": "Module",
+          "children": [
+            {
+            "caption": "List modules",
+            "command": "magerun_module_list"
+            },
+            {
+            "caption": "Create new module",
+            "command": "magerun_module_create"
+            }
+          ]
+          },
+          {
+          "caption": "Debug",
+          "children": [
+            {
+            "caption": "Turn ON hint",
+            "command": "magerun_debug_hint_on"
+            },
+            {
+            "caption": "Turn OFF hint",
+            "command": "magerun_debug_hint_off"
+            },
+            {"caption":"-"},
+            {
+            "caption": "Turn ON hint for store",
+            "command": "magerun_debug_hint_on_store"
+            },
+            {
+            "caption": "Turn OFF hint for store",
+            "command": "magerun_debug_hint_off_store"
+            },
+          ]
+          }          
+        ]
+  }
+]

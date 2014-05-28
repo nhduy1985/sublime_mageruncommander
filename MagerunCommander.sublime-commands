@@ -1,0 +1,8 @@
+[
+    { "caption": "MagerunCommander: Module List", "command": "magerun_module_list" },
+    { "caption": "MagerunCommander: Module Create", "command": "magerun_module_create" },
+    { "caption": "MagerunCommander: Debug : Turn ON hints", "command": "magerun_debug_hint_on" },
+    { "caption": "MagerunCommander: Debug : Turn OFF hints", "command": "magerun_debug_hint_off" },
+    { "caption": "MagerunCommander: Debug : Turn ON hints for store", "command": "magerun_debug_hint_on_store" },
+    { "caption": "MagerunCommander: Debug : Turn OFF hints for store", "command": "magerun_debug_hint_off_store" }
+]
